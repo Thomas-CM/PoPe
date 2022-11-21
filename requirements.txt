@@ -1,0 +1,5 @@
+numpy
+compress_pickle
+matplotlib
+pyqt5
+pandas
